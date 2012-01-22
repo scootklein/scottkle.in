@@ -9,6 +9,18 @@ if ENV['RACK_ENV'] == 'development'
   use Rack::ShowExceptions
 end
 
+# add a route for blog
+module Toto
+  class Site
+    def blog type = :html
+      articles = type == :html ? self.articles.reverse : self.articles
+      {:articles => articles.map do |article|
+        Article.new article, @config
+      end}.merge archives
+    end
+  end
+end
+
 #
 # Create and configure a toto instance
 #
