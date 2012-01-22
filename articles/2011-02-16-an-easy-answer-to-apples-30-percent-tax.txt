@@ -1,0 +1,22 @@
+title: An easy answer to Apple's 30 percent tax
+author: Scott Klein
+date: 2011/02/16
+category: Startups
+
+
+Today's news was quite baffling, and starkly resembled Twitter's purchase of Tweetie so that it can push it as the official Twitter app. Long story short, you can't deny Apple's App Store success has been due to major media subscription titles flowing into the app store at a good clip - Pandora, Netflix, Dropbox, Kindle, NYTimes and WSJ, etc - and now Apple is basically saying "we want half the bread". Many of these are unmetered SaaS solutions with equally unmetered mobile app access. I think the solution going forward is very cut and dry.
+
+
+<b>Mobile access is no longer free, and will cost you 30% more than the base subscription offered over the web.</b>
+
+
+There's an easy business case to be made that mobile traffic incurs development and infrastructure costs (roughly 30% worth =D) and that you want to recoup that through a premium on top of the normal SaaS offering.
+
+
+As far as I can tell, this won't violate any of the provisions set forth in the new terms as long as the publisher is marketing the subscription as "Pandora + Mobile" instead of "Pandora" and has the same mobile addition on top of the base service on their website.
+
+
+What this will force, though, is the consumer wondering why mobile costs more - a teachable moment where the vendors can describe in detail that Apple has levied a 30% tax, much akin to state sales tax, that they're passing through directly to the consumer. My cell phone and utility bills put it straight on the line item list as if to vilify the government powers without shame; why shouldn't these trusted brands shed a little light on the scene?
+
+
+Thoughts?

@@ -1,0 +1,40 @@
+title: Turn off the clock on your menu bar
+author: Scott Klein
+date: 2011/02/02
+category: Life
+
+I've been thinking a lot recently about cognitive overhead (ironic, I know), and for a while now have been slowly eliminating things out of my immediate view that distract me from engaging in a solid flow of work by which I can effortlessly continue for a long period of time uninterrupted before being sufficiently distracted as to break my thought process:
+
+<ul>
+	<li>Gchat notifications / Growl popups</li>
+	<li>Unread email count</li>
+	<li>New twitter items available (tweets, mentions, DMs)</li>
+	<li>Facebook chats</li>
+	<li>Tiny dock (as much full screen as I can for code)</li>
+	<li>iPhone push notifications</li>
+	<li>One-click bookmarks (all of mine are in some sort offolder)</li>
+</ul>
+
+
+Last week I eliminated one item that wasn't so obvious, and it has worked wonders for my flow while coding and planning. 
+
+
+<b>Turn the clock off from your menu bar.</b>
+
+
+It may sound strange, but think about how accustomed we are to having clocks around. Everything on that list above is purely digital, but clocks also have a physical manifestation everywhere in our life. It wasn't obvious to me at first, but my inclination for how it could help seems to have held up true. Consider the following...
+
+
+What happens every time you look at your clock? If you're like me, you immediately begin to calculate how long you have before all of the major events in the day (lunch, meeting at 2, home, hacker meetup, etc). This is non-trivial overhead for sure, but what's paralyzing is all of the possible thought processes that can stem from your mind parsing the reality that you have 4 or 5 distinct events about to come up - if only one of these takes hold you've lost your focus. The focus is usually regained in a seemingly normal amount of time, but the break in concentration, momentum, and flow is in fact prohibitive on your work efficiency and concentration.
+
+
+The idea for this started when I was watching The Social Network for the first time last week. For obvious reasons, I got pretty into the movie. I was so consumed, in fact, that I felt as if I was embodying a different consciousness state that didn't afford for active notice and attention to the day of week or time of day. It was a Tuesday night, and I usually am worried about getting to bed on time and what I need to get done the next day at work. It was a strange feeling for sure, and it intrigued me that it may be beneficial for me to purposefully remove these distractions and stressors in order to focus more intensely on the current moment and task at hand. So the next day, I took my clock off of my menu bar.
+
+
+The past week has often left me mentally exhausted at work from 60-90 minute sprints of pure flow before I just need to get up and walk around to let my mind recoup. I find myself losing track of time and not caring one bit. There are moments when I realize I don't know what time it is, but the effort required to bring up the dashboard on my computer is enough to refocus me before the wandering thought can do any damage. For anything that is important, I have 2 or 3 reminder mechanisms to let me know when it's time to break and move onto something that I'm scheduled for. Whenever I want to check the time during a mental break, I just hit my dashboard key and check a clock widget there.
+
+
+What has been the most interesting is how skewed my sense of time is. Getting lost in code completely warps your natural sense of how much time has passed based on N number of memory events you can recall at a slight cognitive glance. Watching a movie or doing social activities is different, because the recording of physical events passing by is much different than staring at a screen and being physically inactive - the memories just don't seem to get recorded in the same way.
+
+
+I'd love to see if other people would try this out and see what results they get. Please comment back if you do.

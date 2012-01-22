@@ -1,0 +1,21 @@
+title: Clicking "Always Allow" via applescript
+author: Scott Klein
+date: 2011/03/16
+category: Code
+
+Came across something nasty yesterday as we were looking into automating the building of iPhone apps with a dedicated mac mini. Anyone familiar with the certificate process of building and deploying iOS apps knows how much of a nightmare it can be.
+
+
+Specifically, the first time codesign calls on a distribution certificate the user must authorize access for codesign to access the keychain. We have a headless mac mini and really don't want to have to baby sit it. After some tinkering and and googling for the last 6 hours or so, I finally was able to contrive an applescript that I put in a 1 second loop to just continually click "Always Allow" each time it popped up for access.
+
+
+<code>
+	#!/usr/bin/osascript
+	tell application "System Events"
+	   if (exists process "SecurityAgent") then
+	      tell window 1 of process "SecurityAgent"
+	         click button "Always Allow" of group 1
+	      end tell
+	   end if
+	end tell
+</code>

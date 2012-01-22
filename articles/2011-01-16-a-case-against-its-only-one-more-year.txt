@@ -1,0 +1,51 @@
+title: A case against "It's only one more year"
+author: Scott Klein
+date: 2011/01/16
+category: Startups
+
+Last year in January, Steve and I started <a href="http://www.crunchbase.com/company/sound-around">Sound Around</a>. It was a part time gig as I finished up school and Steve was wading deep into his junior year of a business degree in marketing. The following summer we launched, however, was very much full time. Poised with the option to take a term off of school to focus full time on the startup, the advice was a resounding "no" from everyone we solicited feedback from. I purposely removed myself from the conversation because I was sitting, obviously, in the most biased seat available. After much conversation and thought, I think it's time to get the thoughts out on paper. This post isn't about Steve in particular, but about a lot of individuals I have observed since getting involved in software startups almost a year ago. Let's call this character Sven.
+
+
+To set the scene, I should note that Sven has the following characteristics:
+<ul>
+  <li>No intent to work at a large company (let's call large anything > 50 people)</li>
+  <li>More focused on design/UI/UX or web programming than he ever will be on his marketing degree</li>
+  <li>Would work in startups for the remainder of his career if given the choice</li>
+</ul>
+
+
+Additionally, Sven was given the following reasons as to why it would be a bad idea to take time off of school:
+<ul>
+  <li>"Just work on the startup part time until it starts making money."</li>
+  <li>"What if your startup fails and you need a job?"</li>
+  <li>"You'll never go back to school."</li>
+  <li>"You won't get any respect when you're in a room of people that have degrees."</li>
+</ul>
+
+
+Let's address each one of these individually.
+
+
+<b>"Just work on your startup part time until it starts making money"</b>
+
+The horse goes before the cart, right? From the standpoint of hours you may have a case; however, a startup is much more than hours. It is emotion, life balance, stress, extreme joy, extreme despair, and, most of all, mindshare. It's not something you can just turn off when you're doing other things in your life. Showering? You're thinking about startup. Talking with the girlfriend? You're thinking about startup. Sleeping? You're thinking about startup. Doing a startup part time almost assures that both items will turn out less than satisfactory (job, school, etc).
+
+
+<b>"What if your startup fails and you need a job?"</b>
+
+People say this as if they'll certainly be able to get a job if they lose their current "safe" one, but that failed startup founders won't. Getting laid off/fired is no different than winding down a startup: you're still going to be subject to current "market" forces for job availability if thats the route you wish to go. The advantage of doing a startup is that you're used to ramen and dumpster diving, and as such will not experience much change (if any at all) in lifestyle. Plus, there's never a shortage of student loans if you want to go back to school to finish your degree.
+
+
+<b>"You'll never go back to school"</b>
+
+The statistics don't lie on this one: people who take terms off are disproportionately unlikely to finish up, even if its only a couple classes. I find it humorous, however, that most individuals are incredibly supportive of peoples' decisions to take the leap and start a company when they have failure rates comparable to that of returning to school after time off. Even with the previous statement, what's to say that school is the best use of your time? Higher education is arguably not worth the investment these days, let alone the opportunity cost of sitting idly in mandated classes (and often mandated internships!). Startups, on the other hand, could provide a litany of lessons that may never fully materialize in a classroom setting. Don't exclude failed startups, either.
+
+
+<b>"You won't get any respect when you're in a room full of people that have degrees"</b>
+
+Somebody I know recently had his class ring purchased by his parents (against his will I might add) for the sole purpose that "when you go to shake hands with somebody, they're going to notice that ring". I'm going to chock this parental sentiment up to a generational difference, but I would lean heavily toward giving somebody a couple minutes of my day as opposed to trusting a class ring flash if I'm really interested in their education level. That also goes without saying what a psychological anchor a class ring would serve as in the first place. As for those still giving less respect to dropouts due to lack of certification from an arguably antiquated education system, well I just feel sorry for you. Furthermore, I have no interest in doing business with you. We would do much better as a society to meet such observed snap judgements with light encouragement that our initial perceptions often deceive us, and that such bold psychological anchors can bring both pain and missed experiences as we shape our behavior and decisions based on our perception of their education and intelligence.
+
+
+<b>Final Thoughts</b>
+
+I write this in confidence that I would feel the same had Sound Around not turned out to have some degree of success. The lessons would still have been the same, the college education equally as questionable in its value - the only real difference is that now we have an acquisition to talk about and a paycheck twice a month. My lack of anecdotal evidence toward the contrary does leave room for improvement, however. Use the comments box judiciously if you've been in this situation or are thinking about making the jump.

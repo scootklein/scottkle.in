@@ -1,0 +1,25 @@
+title: Rule 1 for beta invites
+author: Scott Klein
+date: 2011/09/12
+category: Startups
+
+<b>answer:</b> remind me what you do
+
+
+I spend most of my day checking <a target="_blank" href="http://news.ycombinator.com">hacker news</a> for the latest startupy and techy stuff, and quite frequently come across new companies launching what are seemingly awesome products. I click most of them, and sign up for almost all of the mailing lists and "beta invites", only to be left in the dark until the company is finally ready for the world to see it's product.
+
+
+&lt;monster-truck-voice&gt;SUNDAY SUNDAY SUNDAY WIDGET COMPANY X IS NOW OPEN FOR PAID BETA FOR THE FIRST 1000 USERS. ONLY $25/month STARTING RIGHT NOW&lt;/monster-truck-voice&gt;
+
+
+Excitement abounds, and then quickly fades as I can't remember what the hell you do. Especially if you have an eccentric name that doesn't quite jive with your product - Balsamiq, for example, great name - I really won't have a clue. Alas, I still may follow the invite link only to be further wondering what you do. The beta invite landing page gives me no clues. Just a logo and other logistics stuff.
+
+
+And then...Ctrl+w and back to hacker news front page to see if Arrington has officially been fired yet. You've lost me, and I won't be back for a while until I see your company name pop up again a few times (remember, I don't know what you do).
+<ul>
+	<li>Please, at least tell me in the paid beta email WHAT YOU DO.</li>
+	<li>Please, at least tell me when I get to the paid beta landing page WHAT YOUR PRODUCT DOES.</li>
+</ul>
+
+
+As PG says, optimize for the back button. Beta invite emails and landing pages are not exempted.
