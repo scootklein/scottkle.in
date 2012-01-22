@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/scootklein/toto.git
+  revision: 27aedf17ef1800950c38cb07fe51b3136d26ffe3
+  specs:
+    toto (0.4.9)
+      builder
+      rack
+      rdiscount
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -17,10 +26,6 @@ GEM
       mime-types (>= 1.16)
     rubyzip (0.9.5)
     term-ansicolor (1.0.7)
-    toto (0.4.9)
-      builder
-      rack
-      rdiscount
 
 PLATFORMS
   ruby
@@ -30,4 +35,4 @@ DEPENDENCIES
   heroku
   rack (= 1.3.6)
   rdiscount
-  toto
+  toto!
